@@ -1,6 +1,17 @@
 # Big-mart-sales
-Predicting the outlet sales based upon previous sales
-
-The data sets contains a number of features which has been used to predict the outlet sales for the test data.
+Predicting the outlet sales of each product based upon previous sales
 
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
+
+Problem Statement
+
+#####################
+
+The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
+Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
+
+Languages and models used
+
+################################
+
+Python, numpy, pandas, sklearn, random forests, linear regression
